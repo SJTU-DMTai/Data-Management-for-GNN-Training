@@ -1,6 +1,6 @@
 # PVLDB 2024 Tutorial: Efficient Training of Graph Neural Networks on Large graphs
 
-This repository provides our PVLDB 2024 tutorial [paper](https://github.com/SJTU-DMTai/vldb24tutorialpaper), [slides](https://github.com/SJTU-DMTai/vldb24tutorialslides), and a list of important works on the related topics as follows.
+This repository provides our PVLDB 2024 tutorial [paper](./vldb24tutorialpaper.pdf), [slides](./vldb24tutorialslides.pdf), and a list of important works on the related topics as follows.
 
 1. NeutronOrch: Rethinking sample-based GNN training under CPU-GPU heterogeneous environments. arXiv:2311.13225 (2023).
 2. Company-as-tribe: Company financial risk assessment on tribe-style graph with hierarchical graph neural networks. In KDD. 2712–2720. 2022.
@@ -38,4 +38,16 @@ This repository provides our PVLDB 2024 tutorial [paper](https://github.com/SJTU
 34. DUCATI: A dual-cache training system for graph neural networks on giant graphs with the GPU. Proc. ACM Manag. Data 1, 2 (2023), 166:1–166:24. 2023.
 35. NSCaching: simple and efficient negative sampling for knowledge graph embedding. In ICDE. IEEE, 614–625. 2019. 
 36. Learning on large-scale text-attributed graphs via variational inference. arXiv preprint arXiv:2210.14709 (2022). 2022. 
-37. Structure-free graph condensation: From large-scale graphs to condensed graph-free data. NeurIPS 36 (2024). 2024. 
+37. Structure-free graph condensation: From large-scale graphs to condensed graph-free data. NeurIPS 36 (2024). 2024.
+
+## Cite
+If you find this useful for your work, please consider citing it as follows:
+```bash
+@article{vldb24shen,
+  title = {Efficient Training of Graph Neural Networks on Large Graphs},
+  author = {Shen, Yanyan and Chen, Lei and Fang, Jingzhi and Zhang, Xin and Gao, Shihong and Yin, Hongbo},
+  journal = {Proc. {VLDB} Endow.},
+  year = {2024},
+  doi  = {10.14778/3685800.3685844},
+}
+```
