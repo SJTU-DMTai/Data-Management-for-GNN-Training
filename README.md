@@ -12,8 +12,8 @@ This repository provides our PVLDB 2024 tutorial [paper](./vldb24tutorialpaper.p
 8. STile: Searching hybrid sparse formats for sparse deep learning operators automatically. Proceedings of the ACM on Management of Data 2, 1 (2024), 1–26.
 9. P3: Distributed deep graph learning at scale. In OSDI. 551–568. 2021.
 10. Graph neural networks for recommender system. In WSDM. 1623–1625. 2022.
-11. ETC: Efficient training of temporal graph neural networks over large-scale dynamic graphs. VLDB 17, 5 (2024), 1060–1072.
-12. SIMPLE: Efficient temporal graph neural network training at scale with dynamic data placement. Proceedings of the ACM on Management of Data 2, 3 (2024), 1–25.
+11. ETC: Efficient training of temporal graph neural networks over large-scale dynamic graphs. VLDB 17, 5 (2024), 1060–1072. [paper](https://www.vldb.org/pvldb/vol17/p1060-gao.pdf) [code](https://github.com/eddiegaoo/ETC)
+12. SIMPLE: Efficient temporal graph neural network training at scale with dynamic data placement. Proceedings of the ACM on Management of Data 2, 3 (2024), 1–25. [paper](https://dl.acm.org/doi/10.1145/3654977) [code](https://github.com/eddiegaoo/SIMPLE)
 13. Traversing large graphs on GPUs with unified memory. VLDB 13, 7 (2020), 1119–1133.
 14. Open graph benchmark: Datasets for machine learning on graphs. NeurIPS 33 (2020), 22118–22133.
 15. Opinion leaders for information diffusion using graph neural network in online social networks. TWEB 17, 2 (2023), 1–37.
