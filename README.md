@@ -34,8 +34,8 @@ This repository provides our PVLDB 2024 tutorial [paper](./vldb24tutorialpaper.p
 30. Kernel ridge regression-based graph dataset distillation. In KDD. 2850–2861. 2023.
 31. Large-scale graph neural networks: The Past and New Frontiers. In KDD. 5835– 5836. 2023.
 32. GNNLab: a factored system for sample-based GNN training over GPUs. In EuroSys. 417–434. 2022. 
-33. Feature-oriented sampling for fast and scalable GNN training. In ICDM. IEEE, 723–732. 2022.
-34. DUCATI: A dual-cache training system for graph neural networks on giant graphs with the GPU. Proc. ACM Manag. Data 1, 2 (2023), 166:1–166:24. 2023.
+33. Feature-oriented sampling for fast and scalable GNN training. In ICDM. IEEE, 723–732. 2022. [paper](https://ieeexplore.ieee.org/document/10027672) [code](https://github.com/initzhang/FOSGNN)
+34. DUCATI: A dual-cache training system for graph neural networks on giant graphs with the GPU. Proc. ACM Manag. Data 1, 2 (2023), 166:1–166:24. 2023. [paper](https://dl.acm.org/doi/abs/10.1145/3589311) [code](https://github.com/initzhang/DUCATI_SIGMOD)
 35. NSCaching: simple and efficient negative sampling for knowledge graph embedding. In ICDE. IEEE, 614–625. 2019. 
 36. Learning on large-scale text-attributed graphs via variational inference. arXiv preprint arXiv:2210.14709 (2022). 2022. 
 37. Structure-free graph condensation: From large-scale graphs to condensed graph-free data. NeurIPS 36 (2024). 2024.
