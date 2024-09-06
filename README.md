@@ -23,12 +23,12 @@ This repository provides our PVLDB 2024 tutorial [paper](./vldb24tutorialpaper.p
 19. Pre-training on large-scale heterogeneous graph. In KDD. 756–766. 2021.
 20. Semi-supervised classification with graph convolutional networks. arXiv preprint arXiv:1609.02907 (2016).
 21. Cache-based gnn system for dynamic graphs. In CIKM. 937–946. 2021.
-22. Orca: Scalable temporal graph neural network training with theoretical guarantees. Proc. ACM Manag. Data 1, 1 (2023), 52:1–52:27. 
-23. Zebra: When temporal graph neural networks meet temporal personalized PageRank. VLDB 16, 6 (2023), 1332–1345.
+22. Orca: Scalable temporal graph neural network training with theoretical guarantees. Proc. ACM Manag. Data 1, 1 (2023), 52:1–52:27. [paper](https://dl.acm.org/doi/abs/10.1145/3588737) [code](https://github.com/LuckyLYM/Orca)
+23. Zebra: When temporal graph neural networks meet temporal personalized PageRank. VLDB 16, 6 (2023), 1332–1345. [paper](https://www.vldb.org/pvldb/vol16/p1332-li.pdf) [code](https://github.com/LuckyLYM/Zebra)
 24. Cc-gnn: A community and contraction-based graph neural network. In ICDM. IEEE, 231–240. 2022.
 25. DAHA: Accelerating GNN training with Data and Hardware Aware Execution Planning. VLDB 17, 6 (2024), 1364–1376.
 26. Pagraph: Scaling GNN training on large graphs via computation-aware caching. In SoCC. 401–415. 2020.
-27. SANCUS: Staleness-aware communication-avoiding full-graph decentralized training in large-scale graph neural networks. VLDB 15, 9 (2022), 1937–1950. 
+27. SANCUS: Staleness-aware communication-avoiding full-graph decentralized training in large-scale graph neural networks. VLDB 15, 9 (2022), 1937–1950. [paper](https://vldb.org/pvldb/vol15/p1937-peng.pdf) [code](https://github.com/chenzhao/light-dist-gnn)
 28. NeutronStar: Distributed GNN training with hybrid dependency management. In SIGMOD. 1301–1315. 2022.
 29. GNNAdvisor: An adaptive and efficient runtime system for GNN acceleration on GPUs. In OSDI. 515–531. 2021.
 30. Kernel ridge regression-based graph dataset distillation. In KDD. 2850–2861. 2023.
