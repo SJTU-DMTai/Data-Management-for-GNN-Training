@@ -8,8 +8,8 @@ This repository provides our PVLDB 2024 tutorial [paper](./vldb24tutorialpaper.p
 4. DSP: Efficient GNN training with multiple GPUs. In PPoPP. 392–404. 2023.
 5. Efficient scaling of dynamic graph neural networks. In SC. 1–15. 2021.
 6. Exgc: Bridging efficiency and explainability in graph condensation. arXiv preprint arXiv:2402.05962 (2024).
-7. Optimizing DNN computation graph using graph substitutions. VLDB 13, 12 (2020), 2734–2746.
-8. STile: Searching hybrid sparse formats for sparse deep learning operators automatically. Proceedings of the ACM on Management of Data 2, 1 (2024), 1–26.
+7. Optimizing DNN computation graph using graph substitutions. VLDB 13, 12 (2020), 2734–2746. [paper](https://www.vldb.org/pvldb/vol13/p2734-fang.pdf) [code](https://github.com/Experiment-code/OCGGS)
+8. STile: Searching hybrid sparse formats for sparse deep learning operators automatically. Proceedings of the ACM on Management of Data 2, 1 (2024), 1–26. [paper](https://dl.acm.org/doi/10.1145/3639323) [code](https://github.com/STile-project/STile)
 9. P3: Distributed deep graph learning at scale. In OSDI. 551–568. 2021.
 10. Graph neural networks for recommender system. In WSDM. 1623–1625. 2022.
 11. ETC: Efficient training of temporal graph neural networks over large-scale dynamic graphs. VLDB 17, 5 (2024), 1060–1072. [paper](https://www.vldb.org/pvldb/vol17/p1060-gao.pdf) [code](https://github.com/eddiegaoo/ETC)
